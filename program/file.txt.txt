@@ -1,0 +1,15 @@
+CARA INSTALL :
+1. Matikan Windows Defender! Caranya:
+	- Pencet Start Lalu Ketikan Defender
+	- Pilih "Windows & Security"
+	- Pilih "Virus & Thread Protection"
+	- Pilih "Manage Setting" di Virus & Thread Protection Setting
+	- Off kan Realtime Protection
+
+2. Install Aplikasi Klik 2 Kali di "pw1203-setup" Lalu Tinggal Next2 & Jangan lupa Hilangkan Centang di "Participate Customer Blablabla" lalu Install
+
+3. Setelah Selesai JANGAN BUKA DULU APLIKASINYA (Hilangkan Centang jalankan Aplikasi/Open Aplikasi Lalu Close)
+
+4. Setelah Install Selesai Copy Semua Isi Folder Aktivator ke Directory Aplikasi Yang sudah diinstall biasanya Local Disk C: > Program File/Program File(86) > Mini Tool Partition Wizard > Pastekan Disini.
+
+5. Setelah Selesai Install Siap Digunakan!
