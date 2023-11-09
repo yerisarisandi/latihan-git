@@ -12,6 +12,4 @@ CARA INSTALL :
 
 4. Setelah Install Selesai Copy Semua Isi Folder Aktivator ke Directory Aplikasi Yang sudah diinstall biasanya Local Disk C: > Program File/Program File(86) > Mini Tool Partition Wizard > Pastekan Disini.
 
-5. Setelah Selesai Install Siap Digunakan! 
-
-yeris ari sandi
+5. Setelah Selesai Install Siap Digunakan!
